@@ -1,7 +1,7 @@
 # flutter_vscode_070824
 
 A new Flutter project - он сделан через Flutter:New 
-в платформе VS COde в качестве пробы, как рыботают стандартные build функции
+в платформе VS COde в качестве пробы, как работают стандартные build функции
 
 ## Getting Started
 
